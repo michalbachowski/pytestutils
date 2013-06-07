@@ -4,7 +4,7 @@
 from setuptools import setup
 
 
-setup(name='PytestUtils',
+setup(name='PyTestUtils',
     url='https://github.com/michalbachowski/pytestutils',
     version='0.1.0',
     description='Test utilities for my python projects',
