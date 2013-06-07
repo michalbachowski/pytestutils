@@ -2,6 +2,11 @@
 # -*- coding: utf-8 -*-
 import collections
 
+try:
+    from unittest import mock
+except ImportError:
+    import mock
+
 
 class IsA(object):
 
